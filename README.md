@@ -3,12 +3,12 @@
 Heyo, I'm Mohammed Sarhat -- a passionate and driven student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I have a strong interest in **Software Development** and **Web Development**, and I'm always eager to learn and grow in these fields.
 
 ### What I've Been Working On
-- **JavaScript Practice**: I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore advanced concepts and techniques.
-- **Vanilla JS Practice**: I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it.
-- **LeetCode Grind**: I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
+- [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore advanced concepts and techniques.
+- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it.
+- [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 
 ### Previous Projects
-- **ReceiptPal**: A project developed during **QHacks 2025** that simplifies expense tracking and visualization. Built using **React** for the frontend, **Flask** for the backend, and integrated with **Firebase** for real-time data storage. Utilized **RESTful APIs** for seamless communication between components and **Charts.js** for dynamic and interactive data visualization.
+- [**ReceiptPal**](https://github.com/clairewhelan/qhacks_2025): A project developed during **QHacks 2025** that simplifies expense tracking and visualization. Built using **React** for the frontend, **Flask** for the backend, and integrated with **Firebase** for real-time data storage. Utilized **RESTful APIs** for seamless communication between components and **Charts.js** for dynamic and interactive data visualization.
 
 ### Statistics
 Here’s a snapshot of my GitHub activity and contributions:
