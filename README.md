@@ -1,15 +1,17 @@
 ### About Me
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I have a strong interest in **Software Development**, and learning about new languages and frameworks.
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in Software Development, and want to push myself to become the best I can be in this field. 
 
 ### What I've Been Working On (Long-Term Projects)
-The following repositories are all for personal use, and document my active learning experience. I plan on working on these for a prolonged period of time. As I am a student, this will take some time. My goal is to have a good set of personal documentation (spending 1-2 hours a day on average per week) done by my graduation time. I will be working on projects while working on this. These will be done daily while I'm not working on a project. 
+The following repositories are all for personal use, and document my active learning experience. I plan on working on these for a prolonged period of time. As I am a student, this will take some time. My goal is to have a good set of personal documentation (spending 1-2 hours a day on average per week) done by my graduation time. I will be working on projects while working on this. 
 
-- [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore advanced concepts and techniques.
-- - [**HTML Practice**](https://github.com/mosarhat/html-practice)
-- [**CSS Practice**](https://github.com/mosarhat/css-practice): Within this repository, I've outlined a deep-dive into core CSS concepts. I try my best to write out everything so that I can understand it upon future reference. 
-- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it.
-- [**React Practice**](https://github.com/mosarhat/react-practice): Revisiting React to refine my understanding and explore advanced patterns.
+I've made a note to include as many refrences as I can throughout my documentation. They don't follow a particular citation standard, but links are available for every single topic that I've decided to research. 
+
+- [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore. 
+- [**HTML Practice**](https://github.com/mosarhat/html-practice): This is going to be mainly review, but there are topics I'm unaware of. I've decided to include topics regarding accessibiliity, as my brother has Autism, and it's something I want to hold to a super high regard when it comes to designed solutions to problems.
+- [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive.
+- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
+- [**React Practice**](https://github.com/mosarhat/react-practice): Revisting React, and building from the ground up. This mainly uses FSO (Full Stack Open), and Scrimba as a resource. This is partly review, but this will cover all the bases for strong React development.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 
 ### What I Plan On Working On
