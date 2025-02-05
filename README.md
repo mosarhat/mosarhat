@@ -1,9 +1,9 @@
 ### About Me
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in Software Development, and want to push myself to become the best I can be in this field. 
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in Software Development.
 
 ### What I've Been Working On (Long-Term Projects)
-The following repositories are all for personal use, and document my active learning experience. I plan on working on these for a prolonged period of time. As I am a student, this will take some time. My goal is to have a good set of personal documentation (spending 1-2 hours a day on average per week) done by my graduation time. I will be working on projects while working on this. 
+The following repositories are all for personal use, and document my active learning experience.
 
 I've made a note to include as many refrences as I can throughout my documentation. They don't follow a particular citation standard, but links are available for every single topic that I've decided to research. 
 
