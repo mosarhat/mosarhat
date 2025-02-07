@@ -18,6 +18,7 @@ I've made a note to include as many refrences as I can throughout my documentati
 - A Vanilla JS website that will be converted to React.
 - CISC332 Website using PHP and MySQL.
 - A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript.
+- A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
 - Pomodoro Website Using Vanilla JS. I want to keep this code as light-weight as possible.
 - Build a website that inputs two sets of text, and provides sentiment analysis. However, you cannot use an API to do the sentiment analysis. Must use Python/Flask.
 - Build a website that scores the similarity of phrases by using a paper. This is good practice as it will help us learn to use research to implement solutions to our problems. The paper at hand; https://semanticsimilarity.wordpress.com/wp-content/uploads/2011/09/10-1109tkde-2006-130-authors-accepted-version.pdf.
