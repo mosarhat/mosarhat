@@ -11,7 +11,6 @@ I've made a note to include as many refrences as I can throughout my documentati
 - [**HTML Practice**](https://github.com/mosarhat/html-practice): This is going to be mainly review, but there are topics I'm unaware of. I've decided to include topics regarding accessibiliity, as my brother has Autism, and it's something I want to hold to a super high regard when it comes to designed solutions to problems.
 - [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive.
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
-- [**React Practice**](https://github.com/mosarhat/react-practice): Revisting React, and building from the ground up. This mainly uses FSO (Full Stack Open), and Scrimba as a resource. This is partly review, but this will cover all the bases for strong React development.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 
 ### What I Plan On Working On
