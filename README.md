@@ -14,7 +14,9 @@ I've made a note to include as many refrences as I can throughout my documentati
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 
 ### What I Plan On Working On
-- Fix ReceiptPal.
+
+- To finish a Discord Bot that takes both DeepSeek API, and OpenAI API and uses it with my personal server.
+- Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
 - Discord Bot: TBD.
 - A Vanilla JS website that will be converted to React.
 - CISC332 Website using PHP and MySQL.
