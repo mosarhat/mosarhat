@@ -40,6 +40,7 @@ I've made a note to include as many references as I can throughout my documentat
   
 **JavaScript-Specific**:
 - A polyfill for JavaScript: TBD.
+- A mixin for JavaScript: TBD.
 
 **Scripts That Automate Menial Tasks**:
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
