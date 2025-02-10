@@ -27,6 +27,9 @@ I've made a note to include as many references as I can throughout my documentat
 
 **Discord Bot Ideas**:
 - A Discord bot that blasts a server when inactivity has been hit every 5 days.
+- A Discord bot that sets reminders for deadlines, three days in advance.
+
+**Web Development**;
 - A Vanilla JS website that will be converted to React.
 - A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript.
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
