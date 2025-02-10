@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/000012.JPG" alt="My very own photo of Lake Ontario's eclipse!" height="500"></img>
-  <figcaption>Lake Ontario's Beautiful Waters during the 2023 Eclipse in Kingston</figcaption>
+  <img style= "border-radius: 25px;" src="assets/1.png" alt="My very own photo of Lake Ontario's eclipse!" height="500"></img>
 </div>
 
 ### About Me
