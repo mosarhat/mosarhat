@@ -17,8 +17,7 @@ I've made a note to include as many references as I can throughout my documentat
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 
-### What I'm Working On Right Now
-
+### What I've Been Working On (Short-Term Projects)
 - To finish a Discord Bot that takes both DeepSeek API, and OpenAI API and uses it with my personal server.
 - Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
 - CISC332 Website using PHP and MySQL.
