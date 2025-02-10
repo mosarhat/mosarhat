@@ -25,6 +25,7 @@ I've made a note to include as many references as I can throughout my documentat
 
 ### What I Plan On Working On
 
+**Discord Bot Ideas**:
 - A Discord bot that blasts a server when inactivity has been hit every 5 days.
 - A Vanilla JS website that will be converted to React.
 - A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript.
