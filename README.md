@@ -1,5 +1,5 @@
 <div align="center">
-  <img style= "border-radius: 25px;" src="assets/1.png" alt="My very own photo of Lake Ontario's eclipse!" height="500"></img>
+  <img style= "border-radius: 30px;" src="assets/1.png" alt="My very own photo of Lake Ontario's eclipse!" height="50%"></img>
 </div>
 
 ### About Me
