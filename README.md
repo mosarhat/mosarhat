@@ -40,6 +40,7 @@ I've made a note to include as many references as I can throughout my documentat
 **JavaScript-Specific**:
 - A polyfill for JavaScript: TBD.
 - A mixin for JavaScript: TBD.
+- A JavaScript decorator: TBD.
 
 **Scripts That Automate Menial Tasks**:
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
@@ -47,8 +48,6 @@ I've made a note to include as many references as I can throughout my documentat
 - A Bash script that renames a bulk file set.
 - A Bash script that creates a bulk file set based on patterned inputs.
 - A Bash script that tests the network speed. 
-
-
 
 **Data Analysis and Model Related Projects**:
 - A data analysis project that analyzes a dataset (TBD), and produces descriptive, and survival analysis.
