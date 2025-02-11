@@ -1,5 +1,5 @@
 <div align="center">
-  <img style= "border-radius: 30px;" src="assets/1.png" alt="My very own photo of Lake Ontario's eclipse!" height="50%"></img>
+  <img style="border-radius: 30px; max-width: 100%; height: auto;" src="assets/1.png" alt="My very own photo of Lake Ontario's eclipse!">
 </div>
 
 ### About Me
@@ -43,7 +43,13 @@ I've made a note to include as many references as I can throughout my documentat
 
 **Scripts That Automate Menial Tasks**:
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
-  
+- A Bash script that creates a backup to a cloud service.
+- A Bash script that renames a bulk file set.
+- A Bash script that creates a bulk file set based on patterned inputs.
+- A Bash script that tests the network speed. 
+
+
+
 **Data Analysis and Model Related Projects**:
 - A data analysis project that analyzes a dataset (TBD), and produces descriptive, and survival analysis.
 - A data anlysis project that analyzes a dataset (TBD), and runs it through traditional machine learning models, neural networks, and deep learning models.
