@@ -120,10 +120,8 @@ Here’s a snapshot of my GitHub activity and contributions:
 ![GO](https://img.shields.io/badge/go-%230076A8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <div align="center">
-  <h3>Let's Connect!</h3>
+  <h3>My Contacts</h3>
   <hr>
 </div>
-
-Feel free to reach out to me on:
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/mosarhat)
 [![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/mosarhat)
