@@ -4,12 +4,14 @@
 
 <div align="center">
   <h3>About Me</h3>
+  <hr>
 </div>
 
 Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I am currently a member of the Queen's Autodrive Perception team. I also love photography, hiking, and just having fun with my loved ones.  
 
 <div align="center">
   <h3>What I've Been Working On (Long-Term Projects)</h3>
+  <hr>
 </div>
 
 The following repositories are all for personal use, and document my active learning experience. 
@@ -23,12 +25,19 @@ I've made a note to include as many references as I can throughout my documentat
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 - **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
 
-### What I've Been Working On (Short-Term Projects)
+<div align="center">
+  <h3>What I've Been Working On (Short-Term Projects)</h3>
+  <hr>
+</div>
+
 - To finish a Discord Bot that takes both DeepSeek API, and OpenAI API and uses it with my personal server.
 - Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
 - CISC332 Website using PHP and MySQL.
 
-### What I Plan On Working On
+<div align="center">
+  <h3>What I Plan on Working On In The Future</h3>
+  <hr>
+</div>
 
 **Discord Bot Ideas**:
 - A Discord bot that blasts a server when inactivity has been hit every 5 days.
@@ -64,10 +73,18 @@ I've made a note to include as many references as I can throughout my documentat
 - Build a simple compiler.
 - Capstone project for school -- TBD.
 
-### Previous Projects
+<div align="center">
+  <h3>Previous Projects</h3>
+  <hr>
+</div>
+
 - [**ReceiptPal**](https://github.com/clairewhelan/qhacks_2025): A project developed during **QHacks 2025** that simplifies expense tracking and visualization. Built using **React** for the frontend, **Flask** for the backend, and integrated with **Firebase** for real-time data storage. Utilized **RESTful APIs** for seamless communication between components and **Charts.js** for dynamic and interactive data visualization.
 
-### Statistics
+<div align="center">
+  <h3>Statistics</h3>
+  <hr>
+</div>
+
 Here’s a snapshot of my GitHub activity and contributions:
 
 <div align="center">
@@ -75,7 +92,10 @@ Here’s a snapshot of my GitHub activity and contributions:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosarhat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Languages
+<div align="center">
+  <h3>Languages</h3>
+  <hr>
+</div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -89,9 +109,13 @@ Here’s a snapshot of my GitHub activity and contributions:
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![GO](https://img.shields.io/badge/go-%230076A8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### Let's Connect!
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <hr>
+</div>
+
 Feel free to reach out to me on:
-
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/mosarhat)
 [![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/mosarhat)
