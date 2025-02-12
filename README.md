@@ -63,7 +63,7 @@ Note: Throughout all of these potential projects, a design process is to be foll
 - A mixin for JavaScript: TBD.
 - A JavaScript decorator: TBD.
 
-## Scripts That Automate Menial Tasks
+#### Scripts That Automate Menial Tasks
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
 - A Bash script that creates a backup to a cloud service.
 - A Bash script that renames a bulk file set.
@@ -71,12 +71,12 @@ Note: Throughout all of these potential projects, a design process is to be foll
 - A Bash script that tests the network speed.
 - Create a Go script that wraps around a script so it can be used within the CLI in a non-native way.
 
-## Data Analysis and Model Related Projects
+#### Data Analysis and Model Related Projects
 - A data analysis project that analyzes a dataset (TBD), and produces descriptive, and survival analysis.
 - A data anlysis project that analyzes a dataset (TBD), and runs it through traditional machine learning models, neural networks, and deep learning models.
 - A small language model using PyTorch. This will be completley self-taught, and my progress will be documented in-depth within the README.md.
 
-## School-Related Projects
+#### School-Related Projects
 - Build a simple compiler (CISC 458).
 - Capstone project for school -- TBD (CISC 498 or CISC 499).
 - Build a SAT Solver, and use Deep Learning Techniques.
