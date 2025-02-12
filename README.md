@@ -4,7 +4,7 @@
 
 ### About Me
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in Software Development, and System Design. I am currently a member of the Queen's Autodrive Perception team. I also love photography, hiking, and just having fun with my loved ones.  
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I am currently a member of the Queen's Autodrive Perception team. I also love photography, hiking, and just having fun with my loved ones.  
 
 ### What I've Been Working On (Long-Term Projects)
 The following repositories are all for personal use, and document my active learning experience.
