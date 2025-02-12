@@ -7,7 +7,10 @@
   <hr>
 </div>
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I am currently a member of the Queen's Autodrive Perception team. I also love photography, hiking, and just having fun with my loved ones.  
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera), spend time with family and friends, and read. 
+
+The following are some clubs I take part in:
+- AutoDrive Perception Team (circa 2025), and more to come.
 
 <div align="center">
   <h3>What I've Been Working On (Long-Term Projects)</h3>
@@ -20,7 +23,7 @@ I've made a note to include as many references as I can throughout my documentat
 
 - [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore. 
 - [**HTML Practice**](https://github.com/mosarhat/html-practice): This is going to be mainly review, but there are topics I'm unaware of. I've decided to include topics regarding accessibiliity, as my brother has Autism, and it's something I want to hold to a super high regard when it comes to designed solutions to problems.
-- [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive.
+- [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive. 
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
 - **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
@@ -39,39 +42,44 @@ I've made a note to include as many references as I can throughout my documentat
   <hr>
 </div>
 
-**Discord Bot Ideas**:
-- A Discord bot that blasts a server when inactivity has been hit every 5 days.
-- A Discord bot that sets reminders for deadlines, three days in advance.
+#### Web Development 
 
-**Web Development**:
-- A Vanilla JS website that will be converted to React.
-- Pomodoro Website Using Vanilla JS. I want to keep this code as light-weight as possible.
+Note: Throughout all of these potential projects, a design process is to be followed. 
+
+- A Vanilla JS project that is complex, and utilizes a backend: QBL?? (iykyk).
+- A Vanilla JS website that will be converted to React: TBD.
 - A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript.
 - Build a website that inputs two sets of text, and provides sentiment analysis. However, you cannot use an API to do the sentiment analysis. Must use Python/Flask.
 
-**App Development**: 
+#### App Development
 - A React Native project that utilizes Expo to create an iPhone, and Android app for users. I want to make this for people with disabilities, so when they take a picture of a given item, it gives a description both in-text, and to speech (upon clicking the test).
-  
-**JavaScript-Specific**:
+
+#### Discord Bot Ideas
+- A Discord bot that blasts a server when inactivity has been hit every 5 days.
+- A Discord bot that sets reminders for deadlines, three days in advance.
+
+#### JavaScript Specific
 - A polyfill for JavaScript: TBD.
 - A mixin for JavaScript: TBD.
 - A JavaScript decorator: TBD.
 
-**Scripts That Automate Menial Tasks**:
+## Scripts That Automate Menial Tasks
 - A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
 - A Bash script that creates a backup to a cloud service.
 - A Bash script that renames a bulk file set.
 - A Bash script that creates a bulk file set based on patterned inputs.
-- A Bash script that tests the network speed. 
+- A Bash script that tests the network speed.
+- Create a Go script that wraps around a script so it can be used within the CLI in a non-native way.
 
-**Data Analysis and Model Related Projects**:
+## Data Analysis and Model Related Projects
 - A data analysis project that analyzes a dataset (TBD), and produces descriptive, and survival analysis.
 - A data anlysis project that analyzes a dataset (TBD), and runs it through traditional machine learning models, neural networks, and deep learning models.
 - A small language model using PyTorch. This will be completley self-taught, and my progress will be documented in-depth within the README.md.
 
-**School-Related Projects**:
-- Build a simple compiler.
-- Capstone project for school -- TBD.
+## School-Related Projects
+- Build a simple compiler (CISC 458).
+- Capstone project for school -- TBD (CISC 498 or CISC 499).
+- Build a SAT Solver, and use Deep Learning Techniques.
 
 <div align="center">
   <h3>Previous Projects</h3>
