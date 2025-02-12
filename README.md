@@ -2,12 +2,17 @@
   <img style="border-radius: 30px; max-width: 100%; height: auto;" src="assets/2.png" alt="My very own photo of Lake Ontario's eclipse!">
 </div>
 
-### About Me
+<div align="center">
+  <h3>About Me</h3>
+</div>
 
 Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I am currently a member of the Queen's Autodrive Perception team. I also love photography, hiking, and just having fun with my loved ones.  
 
-### What I've Been Working On (Long-Term Projects)
-The following repositories are all for personal use, and document my active learning experience.
+<div align="center">
+  <h3>What I've Been Working On (Long-Term Projects)</h3>
+</div>
+
+The following repositories are all for personal use, and document my active learning experience. 
 
 I've made a note to include as many references as I can throughout my documentation. They don't follow a particular citation standard, but links are available for every single topic that I've decided to research. 
 
@@ -16,6 +21,7 @@ I've made a note to include as many references as I can throughout my documentat
 - [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive.
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
+- **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
 
 ### What I've Been Working On (Short-Term Projects)
 - To finish a Discord Bot that takes both DeepSeek API, and OpenAI API and uses it with my personal server.
