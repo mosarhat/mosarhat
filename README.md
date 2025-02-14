@@ -86,7 +86,25 @@ Note: Throughout all of these potential projects, a design process is to be foll
   <hr>
 </div>
 
+#### Web Development Projects 
+
 - [**ReceiptPal**](https://github.com/clairewhelan/qhacks_2025): A project developed during **QHacks 2025** that simplifies expense tracking and visualization. Built using **React** for the frontend, **Flask** for the backend, and integrated with **Firebase** for real-time data storage. Utilized **RESTful APIs** for seamless communication between components and **Charts.js** for dynamic and interactive data visualization.
+
+#### Tooling for CLI Projects 
+
+More to come.
+
+#### Bot Projects 
+
+More to come.
+
+#### JavaScript Specific Projects 
+
+More to come.
+
+#### App Development Projects
+
+More to come. 
 
 <div align="center">
   <h3>Statistics</h3>
