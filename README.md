@@ -7,7 +7,9 @@
   <hr>
 </div>
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera), spend time with family and friends, and read. 
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. 
+
+I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera), spend time with family and friends, and read. 
 
 The following are some clubs I take part in:
 - AutoDrive Perception Team (circa 2025), and more to come.
@@ -48,7 +50,7 @@ Note: Throughout all of these potential projects, a design process is to be foll
 
 - A Vanilla JS project that is complex, and utilizes a backend: QBL?? (iykyk).
 - A Vanilla JS website that will be converted to React: TBD.
-- A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript.
+- A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript. I also want to include a 'Photography Section' for my photos.
 - Build a website that inputs two sets of text, and provides sentiment analysis. However, you cannot use an API to do the sentiment analysis. Must use Python/Flask.
 
 #### App Development
