@@ -35,7 +35,6 @@ I've made a note to include as many references as I can throughout my documentat
   <hr>
 </div>
 
-- To finish a Discord Bot that takes both DeepSeek API, and OpenAI API and uses it with my personal server.
 - Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
 - CISC332 Website using PHP and MySQL.
 
