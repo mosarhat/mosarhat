@@ -29,7 +29,7 @@ I've made a note to include as many references as I can throughout my documentat
 - **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
 
 <div align="center">
-  <h1>What I've Been Working On (Short-Term Projects)</h1
+  <h1>What I've Been Working On (Short-Term Projects)</h1>
 </div>
 
 - Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
