@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>About Me</h3>
-  <hr>
+  <h1>About Me</h1>
 </div>
 
 Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I am a Software Engineer for Assertive.
@@ -15,8 +14,7 @@ The following are some clubs I take part in:
 - AutoDrive Perception Team (circa 2025), and more to come.
 
 <div align="center">
-  <h3>What I've Been Working On (Long-Term Projects)</h3>
-  <hr>
+  <h1>What I've Been Working On (Long-Term Projects)</h1>
 </div>
 
 The following repositories are all for personal use, and document my active learning experience. 
@@ -31,16 +29,14 @@ I've made a note to include as many references as I can throughout my documentat
 - **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
 
 <div align="center">
-  <h3>What I've Been Working On (Short-Term Projects)</h3>
-  <hr>
+  <h1>What I've Been Working On (Short-Term Projects)</h1
 </div>
 
 - Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
 - CISC332 Website using PHP and MySQL.
 
 <div align="center">
-  <h3>What I Plan on Working On In The Future</h3>
-  <hr>
+  <h1>What I Plan on Working On In The Future</h1>
 </div>
 
 #### Web Development 
@@ -83,8 +79,7 @@ Note: Throughout all of these potential projects, a design process is to be foll
 - Build a SAT Solver and include various CDCL techniques.
 
 <div align="center">
-  <h3>Previous Projects</h3>
-  <hr>
+  <h1>Previous Projects</h1>
 </div>
 
 #### Web Development Projects 
@@ -108,8 +103,7 @@ More to come.
 More to come. 
 
 <div align="center">
-  <h3>Statistics</h3>
-  <hr>
+  <h1>Statistics</h1>
 </div>
 
 Here’s a snapshot of my GitHub activity and contributions:
@@ -120,8 +114,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
-  <hr>
+  <h1>Languages</h1>
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -139,8 +132,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 ![GO](https://img.shields.io/badge/go-%230076A8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <div align="center">
-  <h3>My Contacts</h3>
-  <hr>
+  <h1>My Contacts</h1>
 </div>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/mosarhat)
