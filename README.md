@@ -80,7 +80,7 @@ Note: Throughout all of these potential projects, a design process is to be foll
 #### School-Related Projects
 - Build a simple compiler (CISC 458).
 - Capstone project for school -- TBD (CISC 498 or CISC 499).
-- Build a SAT Solver, and use Deep Learning Techniques.
+- Build a SAT Solver and include various CDCL techniques.
 
 <div align="center">
   <h3>Previous Projects</h3>
