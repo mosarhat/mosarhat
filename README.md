@@ -150,8 +150,13 @@ Here’s a snapshot of my GitHub activity and contributions:
 [![Google Cloud SQL](https://img.shields.io/badge/google%20cloud%20sql-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/sql)
 
 <div align="center">
-  <h1>Fronend Frameworks</h1>
+  <h1>Frontend Frameworks</h1>
 </div>
+
+[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![DaisyUI](https://img.shields.io/badge/daisyUI-%236B21A8.svg?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 
 <div align="center">
   <h1>My Contacts</h1>
