@@ -98,7 +98,7 @@ More to come.
 
 #### Bot Projects 
 
-More to come.
+[Hola Discord Bot](https://github.com/mosarhat/hola): A simple friendly and relaxed Discord bot built using Python, Discord.Py, and OpenAI’s GPT model. The bot engages in casual conversations with users, powered by OpenAI’s ChatCompletion API. The bot is deployed on Railway.app.
 
 #### JavaScript Specific Projects 
 
