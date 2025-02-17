@@ -29,56 +29,6 @@ I've made a note to include as many references as I can throughout my documentat
 - **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
 
 <div align="center">
-  <h1>What I've Been Working On (Short-Term Projects)</h1>
-</div>
-
-- Fix ReceiptPal. Add some more pages to make the Login/Logout more functional and smooth.
-- CISC332 Website using PHP and MySQL.
-
-<div align="center">
-  <h1>What I Plan on Working On In The Future</h1>
-</div>
-
-#### Web Development 
-
-Note: Throughout all of these potential projects, a design process is to be followed. 
-
-- A Vanilla JS project that is complex, and utilizes a backend: QBL?? (iykyk).
-- A Vanilla JS website that will be converted to React: TBD.
-- A personal website, with a blog, and portfolio showcase, using React. This is for me to write about more advanced topics I've learned in the future regarding HTML, CSS, and JavaScript. I also want to include a 'Photography Section' for my photos.
-- Build a website that inputs two sets of text, and provides sentiment analysis. However, you cannot use an API to do the sentiment analysis. Must use Python/Flask.
-
-#### App Development
-- A React Native project that utilizes Expo to create an iPhone, and Android app for users. I want to make this for people with disabilities, so when they take a picture of a given item, it gives a description both in-text, and to speech (upon clicking the test).
-
-#### Discord Bot Ideas
-- A Discord bot that blasts a server when inactivity has been hit every 5 days.
-- A Discord bot that sets reminders for deadlines, three days in advance.
-
-#### JavaScript Specific
-- A polyfill for JavaScript: TBD.
-- A mixin for JavaScript: TBD.
-- A JavaScript decorator: TBD.
-
-#### Scripts That Automate Menial Tasks
-- A Bash script that allows me to initialize a repository within a command, followed by the repo-name.
-- A Bash script that creates a backup to a cloud service.
-- A Bash script that renames a bulk file set.
-- A Bash script that creates a bulk file set based on patterned inputs.
-- A Bash script that tests the network speed.
-- Create a Go script that wraps around a script so it can be used within the CLI in a non-native way.
-
-#### Data Analysis and Model Related Projects
-- A data analysis project that analyzes a dataset (TBD), and produces descriptive, and survival analysis.
-- A data anlysis project that analyzes a dataset (TBD), and runs it through traditional machine learning models, neural networks, and deep learning models.
-- A small language model using PyTorch. This will be completley self-taught, and my progress will be documented in-depth within the README.md.
-
-#### School-Related Projects
-- Build a simple compiler (CISC 458).
-- Capstone project for school -- TBD (CISC 498 or CISC 499).
-- Build a SAT Solver and include various CDCL techniques.
-
-<div align="center">
   <h1>Previous Projects</h1>
 </div>
 
