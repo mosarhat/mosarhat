@@ -91,13 +91,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![IBM Db2](https://img.shields.io/badge/ibm%20db2-%230073C7.svg?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/db2)
-[![Google Cloud SQL](https://img.shields.io/badge/google%20cloud%20sql-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/sql)
 
 <div align="center">
   <h1>Frontend Frameworks</h1>
