@@ -26,8 +26,8 @@ I've made a note to include as many references as I can throughout my documentat
 - [**CSS Practice**](https://github.com/mosarhat/css-practice): CSS is probably my weakest link, and I've made an exceptional push to learn as much CSS as I possibly can. This will be exhaustive. 
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind): I'm solving LeetCode problems to improve my problem-solving skills and prepare for technical interviews. While I'm still exploring, I'm committed to consistently improving.
-- **System Design and Software Architecture**: A thorough deep-dive into system design, and software architecture topics I've learned. I plan on starting this sometime in the future.
-
+- **System Design Patterns**: A thorough deep-dive into system design patterns. For this particular project, I am using Java to demonstrate creational, structural, and behavioral design patterns. Something important to note, there will be a major focus on the concepts, and how they are implemented.
+- **Software Architecture**: A thorough deep-dive into software architecture, as covered in CISC 322. 
 <div align="center">
   <h1>Previous Projects</h1>
 </div>
