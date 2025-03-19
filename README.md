@@ -8,10 +8,7 @@
 
 Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I am a Software Engineer for Assertive.
 
-I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera), spend time with family and friends, and read. 
-
-The following are some clubs I take part in:
-- AutoDrive Perception Team (circa 2025), and more to come.
+I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera during the 2023 Solar Eclipse in Kingston), spend time with family and friends, and learn.
 
 <div align="center">
   <h1>What I've Been Working On (Long-Term Projects)</h1>
@@ -21,11 +18,12 @@ The following repositories are all for personal use, and document my active lear
 
 I've made a note to include as many references as I can throughout my documentation. They don't follow a particular citation standard, but links are available for every single topic that I've decided to research. 
 
-- [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a deep dive into learning JavaScript. While much of it is review, there's still a lot I don't know, and I'm excited to explore. 
-- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): I believe understanding Vanilla JavaScript is crucial for building a strong foundation, especially for frameworks like React, Svelte, or Angular. I've used React before, but I want to master the finer details of what precedes it. The repository mainly covers the DOM, and Events.
-- [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind). I am using both Python and TypeScript for LeetCode.
-- **System Design Patterns**: A thorough deep-dive into system design patterns. For this particular project, I am using Java to demonstrate creational, structural, and behavioral design patterns. Something important to note, there will be a major focus on the concepts, and how they are implemented. These extend to most languages.
-- **Software Architecture**: A thorough deep-dive into software architecture, as covered in CISC 322. 
+- [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a major deep dive into JavaScript. Much of it is review, however, there's a lot I seemingly don't know, annd I'm excited to learn.
+- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): Covers the finer details of DOM Manipulation, and Events in Vanilla JS. Understanding this very well is a skill as onboarding to different front-end frameworks is quite simple (React, Svelte, Angular, etc).
+- [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind). I am solely using either JavaScript or TypeScript to LeetCode.
+- **OOP Patterns Through Examples**: An example-driven showcase of OOP Design Patterns.
+- **Software Architecture**: A thorough deep-dive into software architecture, as covered in CISC 322.
+  
 <div align="center">
   <h1>Previous Projects</h1>
 </div>
