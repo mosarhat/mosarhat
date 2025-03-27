@@ -20,7 +20,8 @@ I've made a note to include as many references as I can throughout my documentat
 
 - [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a major deep dive into JavaScript. Much of it is review, however, there's a lot I seemingly don't know, and I'm excited to learn.
 - [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): Covers the finer details of DOM Manipulation, and Events in Vanilla JS. Understanding this very well is a skill as onboarding to different front-end frameworks is quite simple (React, Svelte, Angular, etc).
-- [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind). I am solely using either JavaScript or TypeScript to LeetCode.
+- [**Data Structures**](https://github.com/mosarhat/dsa-algos): My very own short notebook in preparation for LeetCode styled interviews.
+- [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind). A bank full of my LeetCode solutions to problems (they also work on LeetCode).
 - **OOP Patterns Through Examples**: An example-driven showcase of OOP Design Patterns.
 - **Software Architecture**: A thorough deep-dive into software architecture, as covered in CISC 322.
   
