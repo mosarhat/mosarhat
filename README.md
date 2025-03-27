@@ -6,7 +6,7 @@
   <h1>About Me</h1>
 </div>
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2026**. I am a Software Engineer for Assertive.
+Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2027**. I am a Software Engineer for Assertive.
 
 I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera during the 2023 Solar Eclipse in Kingston), spend time with family and friends, and learn.
 
