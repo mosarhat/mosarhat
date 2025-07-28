@@ -6,24 +6,22 @@
   <h1>About Me</h1>
 </div>
 
-Heyo, I'm Mohammed Sarhat -- a student currently pursuing a degree in **Computing at Queen's University**, slated to graduate in **2027**. I am a Software Engineer for Assertive.
+Hey, I'm Mohammed Sarhat, but people just typically call me Mo. I'm a student at Queen's, pursuing a degree in Computing, and am slated to graduate in 2027. I am a software engineer at Assertive.
 
-I'm super interested in software development, and system design. I love to go out and take photos on my old film CANON EOS 500 camera (the photo taken above was taken with my camera during the 2023 Solar Eclipse in Kingston), spend time with family and friends, and learn.
+I'm super interested in software development and system design. I love to go out and take photos with my old film Canon EOS 500 camera (the photo above was taken with my camera during the 2023 Solar Eclipse in Kingston), spend time with family and friends, and learn. I also love to read (sometimes too much). 
 
 <div align="center">
   <h1>What I've Been Working On (Long-Term Projects)</h1>
 </div>
 
-The following repositories are all for personal use, and document my active learning experience. 
+The following repositories are all for personal use and document my active learning experience. 
 
 I've made a note to include as many references as I can throughout my documentation. They don't follow a particular citation standard, but links are available for every single topic that I've decided to research. 
 
 - [**JavaScript Practice**](https://github.com/mosarhat/js-practice): I'm taking a major deep dive into JavaScript. Much of it is review, however, there's a lot I seemingly don't know, and I'm excited to learn.
-- [**Vanilla JS Practice**](https://github.com/mosarhat/vanilla-js-practice): Covers the finer details of DOM Manipulation, and Events in Vanilla JS. Understanding this very well is a skill as onboarding to different front-end frameworks is quite simple (React, Svelte, Angular, etc).
 - [**Data Structures**](https://github.com/mosarhat/dsa-algos): My very own short notebook in preparation for LeetCode styled interviews.
 - [**LeetCode Grind**](https://github.com/mosarhat/leetcode-grind). A bank full of my LeetCode solutions to problems (they also work on LeetCode).
 - **OOP Patterns Through Examples**: An example-driven showcase of OOP Design Patterns.
-- **Software Architecture**: A thorough deep-dive into software architecture, as covered in CISC 322.
   
 <div align="center">
   <h1>Previous Projects</h1>
